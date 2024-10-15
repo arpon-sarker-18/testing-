@@ -1,0 +1,9 @@
+# Ignore all files without extensions
+*
+
+# Allow .c files
+!*.c
+
+# If needed, also allow directories and other specific files
+!.gitignore
+!*/
